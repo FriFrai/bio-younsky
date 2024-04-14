@@ -1,0 +1,23 @@
+.social-links {
+  position: absolute;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.social-link {
+  margin: 0 10px;
+}
+
+.social-link img {
+  width: 30px;
+  height: auto;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  max-width: 500px;
+  border-radius: 50%;
+}
